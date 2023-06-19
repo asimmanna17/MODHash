@@ -19,7 +19,7 @@ Sample dataset availabel on './data/'.
 
 ## Train
 ```
-python OPHash.py
+python MODHash.py
 ```
 Trained model will be saved in './models/'.
 
