@@ -2,3 +2,6 @@ from download import download
 url = 'https://data.mendeley.com/public-files/datasets/rscbjbr9sj/files/810b2ce2-11c3-4424-996e-3bef36600907/file_downloaded'
 file_path = '/storage/asim/Main_combine_dataset/'
 path = download(url, file_path, kind="zip",progressbar=True,replace=True)
+
+unset {HTTP,HTTPS,FTP,ALL}_PROXY
+unset {http,https,ftp,all}_proxy
