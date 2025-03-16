@@ -1,4 +1,4 @@
-# # Codes for paper:  Deep Neural Hashing for Medical Image Retrieval [arxiv](https://arxiv.org/abs/)
+# # Codes for paper:  Structured hashing with deep learning for modality, organ, and disease content sensitive medical image retrieval [Paper][https://www.nature.com/articles/s41598-025-93418-2/]
 
 
 ## Prerequisites
