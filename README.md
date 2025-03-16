@@ -4,19 +4,6 @@
 
 
 
-Sample dataset availabel on './data/'.
-
-## Train
-```
-python MODHash.py
-```
-Trained model will be saved in './models/'.
-
-## Evalutions
-Trained models are available in [Here](https://iitkgpacin-my.sharepoint.com/:f:/g/personal/asimmanna17_kgpian_iitkgp_ac_in/EhAbL4IyLiFFrkMdJbRIuHMBj8cHos1ThDWzZN-nrSRzeg?e=mx7o1N).
-```
-python evalution.py
-```
 
 
 
